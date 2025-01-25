@@ -34,6 +34,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-browse_online-gray?labelColor=F80000&logo=oracle&logoColor=fff&style=flat)
+
 
 ## 🏆 Key Achievements
 - **Architecture Modernization**: Led migration of 7 monolithic apps → unified super app (Go + K8s)
