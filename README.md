@@ -3,7 +3,6 @@
 **Senior Software Engineer & Team Lead** | Distributed Systems & Cloud-Native Architectures | 🏡 Mashhad, Iran  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-malvandy-niko)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohsenmalvandyniko@gmail.com)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MMN3003.MMN3003)](https://github.com/MMN3003)
 
 ## 🚀 Technical Leadership
 6+ years leading **high-performance engineering teams** in:
@@ -30,9 +29,11 @@
 
 ### 📦 Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![ScyllaDB](https://img.shields.io/badge/-Scylla/DB-53CADD?logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🏆 Key Achievements
 - **Architecture Modernization**: Led migration of 7 monolithic apps → unified super app (Go + K8s)
